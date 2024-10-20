@@ -43,4 +43,4 @@ Na pasta `preOCR_OpenMP`, a técnica de paralelismo implementada foi o OpenMP. T
 
 ## Conclusão
 
-Essas técnicas foram implementadas com o intuito de comparar a eficiência das abordagens manual (pthreads) e automática (OpenMP), ambas voltadas para a aceleração de tarefas críticas no processamento de imagens."
+Essas técnicas foram implementadas com o intuito de comparar a eficiência das abordagens de pthreads e de OpenMP, ambas voltadas para a aceleração de tarefas críticas.
